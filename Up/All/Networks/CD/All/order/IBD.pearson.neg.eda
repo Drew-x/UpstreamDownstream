@@ -1,0 +1,15 @@
+name	weight
+Clostridiales (pp) Fusobacteriales	-0.281944083987443
+Clostridiales (pp) Pasteurellales	-0.289163895171955
+Clostridiales (pp) Enterobacteriales	-0.417621974981226
+Bacteroidales (pp) Pseudomonadales	-0.332765130741802
+Bacteroidales (pp) Lactobacillales	-0.372287818783195
+Bacteroidales (pp) Pasteurellales	-0.314563574211859
+Bacteroidales (pp) Enterobacteriales	-0.388491956872075
+Pseudomonadales (pp) Bacteroidales	-0.332765130741802
+Lactobacillales (pp) Bacteroidales	-0.372287818783195
+Fusobacteriales (pp) Clostridiales	-0.281944083987443
+Pasteurellales (pp) Clostridiales	-0.289163895171955
+Pasteurellales (pp) Bacteroidales	-0.314563574211859
+Enterobacteriales (pp) Clostridiales	-0.417621974981226
+Enterobacteriales (pp) Bacteroidales	-0.388491956872075

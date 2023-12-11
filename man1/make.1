@@ -1,0 +1,32 @@
+.TH MAKE 1
+.SH NAME
+make \- creates directories recursively from the specified path
+.SH SYNOPSIS
+.B make 
+SRC_DIR [DIRPATH]
+.SH DESCRIPTION
+.B make
+creates directories from the specified directory given to it.
+.P
+DIRPATH must be the directories that will be created. input will be a string written within '', 
+where a space separates folders in the same level while | will be the symbol to signal the next level location.
+.SH EXAMPLES
+To create a directories use the 
+.BR make (1)
+command:
+.PP
+.nf
+.RS
+make PATH 'Dir1_1'
+creates directory PATH/DIR1_1
+
+make PATH 'Dir1_1|Dir2_1'
+creates directories PATH/Dir1_1 and PATH/Dir1_1/Dir2_1
+
+make PATH 'Dir1_1|Dir2_1 Dir2_2'
+Folder PATH/Dir1_1 has been created
+Folder PATH/Dir1_1/Dir2_1 has been created
+Folder PATH/Dir1_1/Dir2_2 has been created
+.RE
+.fi
+.PP

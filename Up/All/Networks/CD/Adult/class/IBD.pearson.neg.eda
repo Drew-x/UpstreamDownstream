@@ -1,0 +1,11 @@
+name	weight
+Clostridia (pp) Bacteroidia	-0.55925999151537
+Clostridia (pp) Fusobacteriia	-0.521574213592515
+Bacteroidia (pp) Clostridia	-0.55925999151537
+Bacteroidia (pp) Gammaproteobacteria	-0.410051345112953
+Bacteroidia (pp) Coriobacteriia	-0.385778397098068
+Bacteroidia (pp) Epsilonproteobacteria	-0.428200512128583
+Gammaproteobacteria (pp) Bacteroidia	-0.410051345112953
+Fusobacteriia (pp) Clostridia	-0.521574213592515
+Coriobacteriia (pp) Bacteroidia	-0.385778397098068
+Epsilonproteobacteria (pp) Bacteroidia	-0.428200512128583

@@ -1,0 +1,15 @@
+name	weight
+Faecalibacterium (pp) Intestinibacter	-0.415835732602355
+Faecalibacterium (pp) Tyzzerella	-0.385302135217384
+Faecalibacterium (pp) Flavonifractor	-0.381343693218083
+Faecalibacterium (pp) Escherichia_Shigella	-0.311037112059918
+Bacteroides (pp) Streptococcus	-0.421361830263084
+Bacteroides (pp) Anaerococcus	-0.351449324942446
+Bacteroides (pp) Ruminococcaceae_UCG_002	-0.351735061572411
+Streptococcus (pp) Bacteroides	-0.421361830263084
+Intestinibacter (pp) Faecalibacterium	-0.415835732602355
+Anaerococcus (pp) Bacteroides	-0.351449324942446
+Tyzzerella (pp) Faecalibacterium	-0.385302135217384
+Ruminococcaceae_UCG_002 (pp) Bacteroides	-0.351735061572411
+Flavonifractor (pp) Faecalibacterium	-0.381343693218083
+Escherichia_Shigella (pp) Faecalibacterium	-0.311037112059918

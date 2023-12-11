@@ -1,0 +1,27 @@
+.TH CHECK 1
+.SH NAME
+check \- checks two directories for matching files that have differences
+.SH SYNOPSIS
+.B check
+[DIR1] [DIR2]
+.SH DESCRIPTION
+.B check
+looks for differences in matching files within two directories
+.P
+DIR1 a directory that contains files to compare
+
+DIR2 a directory that contains files to compare
+.SH EXAMPLES
+To check for differences in files between two directories use the
+.BR check (1)
+command:
+.PP
+.nf
+.RS
+check Dir1_1 Dir1_2
+
+searches for matching folder to look inside of and compare any files that it finds 
+that exists in both directories, if there are any differences then the file will be printed to the screen
+.RE
+.fi
+.PP

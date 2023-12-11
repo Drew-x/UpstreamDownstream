@@ -1,0 +1,9 @@
+name	weight
+Family_XIII_AD3011_group (pp) Bacteroides	-0.843512529145167
+_Ruminococcus_gauvreauii_group (pp) Ruminococcaceae_UCG_013	-0.816220613628576
+Bacteroides (pp) Family_XIII_AD3011_group	-0.843512529145167
+_Eubacterium_hallii_group (pp) Staphylococcus	-0.794159497260169
+_Eubacterium_hallii_group (pp) Ruminococcaceae_UCG_005	-0.790632486988945
+Ruminococcaceae_UCG_013 (pp) _Ruminococcus_gauvreauii_group	-0.816220613628576
+Staphylococcus (pp) _Eubacterium_hallii_group	-0.794159497260169
+Ruminococcaceae_UCG_005 (pp) _Eubacterium_hallii_group	-0.790632486988945

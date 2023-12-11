@@ -1,0 +1,9 @@
+name	weight
+Clostridia (pp) Gammaproteobacteria	-0.669980145756732
+Clostridia (pp) Actinobacteria	-0.432059632131133
+Bacteroidia (pp) Gammaproteobacteria	-0.406647312793187
+Bacteroidia (pp) Bacilli	-0.408366993439939
+Gammaproteobacteria (pp) Clostridia	-0.669980145756732
+Gammaproteobacteria (pp) Bacteroidia	-0.406647312793187
+Actinobacteria (pp) Clostridia	-0.432059632131133
+Bacilli (pp) Bacteroidia	-0.408366993439939

@@ -1,0 +1,30 @@
+TMC assembling tables of sample counts for All, Adult and Pediatric
+
+All
+		CD	UC	nonIBD
+familyNoV	8	6	0*
+familyV		78	40	46*
+genusNoV	16	8	2*
+genusV		70	38	44
+
+
+Adult
+
+familyNoV	3*	6	0*
+familyV		42	23	20*
+genusNoV	9	8	1*
+genusV		36	21	19
+
+
+Pediatric
+
+familyNoV	5	0*	0*
+familyV		36	17*	26*
+genusNoV	7	0*	1*
+genusV		34	17*	25
+
+
+Networks with a (*) do not make sense to generate, either
+(1) They have two few samples, or
+(2) Their complement has zero samples, meaning we already have the network (i.e.
+if familyNoV=0, familyV network will be the same as family)

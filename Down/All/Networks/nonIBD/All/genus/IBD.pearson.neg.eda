@@ -1,0 +1,15 @@
+name	weight
+Faecalibacterium (pp) Veillonella	-0.387775585187787
+Faecalibacterium (pp) Escherichia_Shigella	-0.438677884379875
+Sutterella (pp) Parasutterella	-0.387462761207801
+Veillonella (pp) Faecalibacterium	-0.387775585187787
+Veillonella (pp) Bacteroides	-0.377518069825333
+Bacteroides (pp) Veillonella	-0.377518069825333
+Bacteroides (pp) Erysipelatoclostridium	-0.407482735309813
+Bacteroides (pp) Lachnoclostridium	-0.387122852569064
+Bacteroides (pp) _Ruminococcus_gnavus_group	-0.43373107474143
+Erysipelatoclostridium (pp) Bacteroides	-0.407482735309813
+Parasutterella (pp) Sutterella	-0.387462761207801
+Lachnoclostridium (pp) Bacteroides	-0.387122852569064
+Escherichia_Shigella (pp) Faecalibacterium	-0.438677884379875
+_Ruminococcus_gnavus_group (pp) Bacteroides	-0.43373107474143

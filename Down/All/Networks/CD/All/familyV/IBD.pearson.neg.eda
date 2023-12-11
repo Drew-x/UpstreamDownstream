@@ -1,0 +1,9 @@
+name	weight
+Ruminococcaceae (pp) Veillonellaceae	-0.301554236590673
+Ruminococcaceae (pp) Enterobacteriaceae	-0.346033139528538
+Veillonellaceae (pp) Ruminococcaceae	-0.301554236590673
+Bacteroidaceae (pp) Streptococcaceae	-0.410300178465767
+Bacteroidaceae (pp) Pasteurellaceae	-0.328895448563493
+Streptococcaceae (pp) Bacteroidaceae	-0.410300178465767
+Pasteurellaceae (pp) Bacteroidaceae	-0.328895448563493
+Enterobacteriaceae (pp) Ruminococcaceae	-0.346033139528538

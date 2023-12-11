@@ -1,0 +1,15 @@
+OTU,LDA_score,CLass
+Thermoanaerobacteraceae,4.356096140345229,CD
+Clostridiaceae_1,5.8199118796980045,CD
+Methanobacteriaceae,5.468634874032913,UC
+Christensenellaceae,6.323744005380308,UC
+Enterobacteriaceae,7.82685498595471,UC
+Clostridiales_vadinBB60_group,4.475464059431245,nonIBD
+Victivallaceae,4.536628116587528,nonIBD
+Gastranaerophilales__order__,5.342124754131624,nonIBD
+Family_XIII,5.514188472737098,nonIBD
+Mollicutes_RF9__order__,5.776373298767406,nonIBD
+Rhodospirillaceae,6.064039831749335,nonIBD
+Desulfovibrionaceae,6.745226610242587,nonIBD
+Alcaligenaceae,7.234151808281461,nonIBD
+Rikenellaceae,7.317711862779105,nonIBD

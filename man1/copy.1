@@ -1,0 +1,40 @@
+.TH COPY 1
+.SH NAME
+copy \– copy files/directories from one stream to another assuming similar file structures
+.SH SYNOPSIS
+.B copy 
+[OPTION] [DIR1] [DIR2] [FILEPATH]
+.SH DESCRIPTION
+.B copy 
+copies files/directories from one directory to another with matching file structures
+.TP
+.BR \-f
+Skips the prompts to override files and copies files/directories wheter the file/directory exists on the other stream or not
+.P
+DIR1 directory that will be the source to copy from
+
+DIR2 directory that will be the destination to copy to
+
+FILEPATH must be the files/directories that will be copied. input will be a
+string written within '', where a space separates files/directories in
+the same level while | will be the symbol to signal the next level
+location. ! is flag that signals script to copy entire folder instead
+of traversing it
+
+.SH EXAMPLES
+To copy files/directories from one location to another use the
+.BR copy (1)
+command:
+.PP
+.nf
+.RS
+copy ./Dir_Src ./Dir_Dst 'Dir2_1 Dir2_2|Dir3_1! Dir3_2 File3_1|File4_1'
+Copying Folder ./Dir_Src/Dir2_1/Dir3_1 to ./Dir_Dst/Dir2_1
+Copying File ./Dir_Src/Dir2_1/Dir3_2/File4_1 to ./Dir_Dst/Dir2_1/Dir3_2
+Copying File ./Dir_Src/Dir2_1/File3_1 to ./Dir_Dst/Dir2_1
+Copying Folder ./Dir_Src/Dir2_2/Dir3_1 to ./Dir_Dst/Dir2_2
+Copying File ./Dir_Src/Dir2_2/Dir3_2/File4_1 to ./Dir_Dst/Dir2_2/Dir3_2
+Copying File ./Dir_Src/Dir2_2/File3_1 to ./Dir_Dst/Dir2_2
+.RE
+.fi
+.PP

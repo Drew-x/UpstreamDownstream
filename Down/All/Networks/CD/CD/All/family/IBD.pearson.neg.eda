@@ -1,0 +1,13 @@
+name	weight
+Ruminococcaceae (pp) Enterobacteriaceae	-0.371867357826927
+Pseudomonadaceae (pp) Bacteroidaceae	-0.278604052769429
+Lachnospiraceae (pp) Enterobacteriaceae	-0.303984740488016
+Bacteroidaceae (pp) Pseudomonadaceae	-0.278604052769429
+Bacteroidaceae (pp) Streptococcaceae	-0.336970965184853
+Bacteroidaceae (pp) Pasteurellaceae	-0.286264718031211
+Bacteroidaceae (pp) Enterobacteriaceae	-0.333497691565286
+Streptococcaceae (pp) Bacteroidaceae	-0.336970965184853
+Pasteurellaceae (pp) Bacteroidaceae	-0.286264718031211
+Enterobacteriaceae (pp) Ruminococcaceae	-0.371867357826927
+Enterobacteriaceae (pp) Lachnospiraceae	-0.303984740488016
+Enterobacteriaceae (pp) Bacteroidaceae	-0.333497691565286

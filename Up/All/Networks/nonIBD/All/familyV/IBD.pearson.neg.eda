@@ -1,0 +1,13 @@
+name	weight
+Family_XIII (pp) Bacteroidaceae	-0.421728993913129
+Ruminococcaceae (pp) Enterobacteriaceae	-0.537184018033099
+Lachnospiraceae (pp) Bacteroidaceae	-0.431749600596918
+Alcaligenaceae (pp) Veillonellaceae	-0.429200841410204
+Veillonellaceae (pp) Alcaligenaceae	-0.429200841410204
+Veillonellaceae (pp) Acidaminococcaceae	-0.440745549444912
+Erysipelotrichaceae (pp) Bacteroidaceae	-0.407184296782878
+Bacteroidaceae (pp) Family_XIII	-0.421728993913129
+Bacteroidaceae (pp) Lachnospiraceae	-0.431749600596918
+Bacteroidaceae (pp) Erysipelotrichaceae	-0.407184296782878
+Acidaminococcaceae (pp) Veillonellaceae	-0.440745549444912
+Enterobacteriaceae (pp) Ruminococcaceae	-0.537184018033099

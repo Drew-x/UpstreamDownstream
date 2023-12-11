@@ -1,0 +1,32 @@
+.TH COMMIT 1
+.SH NAME
+commit \– locates files/directories and commits them to GitHub repository  
+.SH SYNOPSIS
+.B commit 
+[FILEPATH]
+.SH DESCRIPTION
+.B commit 
+stages and pushes files/directories to a remote GitHub repository
+.P
+FILEPATH must be the files/directories that will be commited. input will be a
+string written within '', where a space separates files/directories in
+the same level while | will be the symbol to signal the next level
+location. ! is flag that signals script to commit entire folder instead
+of traversing it	
+.SH EXAMPLES
+To commit a set of files/directories to GitHub use the 
+.BR commit (1)
+command:
+.PP
+.nf
+.RS
+commit 'Dir1_1|Dir2_1 Dir2_2|Dir3_1! Dir3_2 File3_1|File4_1'
+Staging Files to Commit in Folder Dir1_1|Dir2_1|Dir3_1
+Staging File to Commit Dir1_1|Dir2_1|Dir3_2|File4_1
+Staging File to Commit Dir1_1|Dir2_1|File3_1
+Staging Files to Commit in Folder Dir1_1|Dir2_2|Dir3_1
+Staging File to Commit Dir1_1|Dir2_2|Dir3_2|File4_1
+Staging File to Commit Dir1_1|Dir2_2|File3_1
+.RE
+.fi
+.PP
